@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.pdf
+/個人照/
+/生活照/
+/裝飾圖片/
+/小狗banner.jpg
+/instagram.png
+/contact-sheet.jpg
+/tmp/
+.env*
+*.log
